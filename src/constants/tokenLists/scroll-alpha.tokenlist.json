@@ -1,0 +1,20 @@
+{
+  "name": "TokenList",
+  "timestamp": "2023-08-24T00:00:00.000Z",
+  "logoURI": "https://ipfs.io/ipfs/QmVWjVkgTzSg87W6FKF8zW2try9GBNv8j8gmnfPc9ukXKN?filename=evmos-logo.27f54c9b.png",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "WBONE",
+      "address": "0xe26E43A57FB3cbEdB975AF543455dAbE5C09E7A0",
+      "symbol": "WBONE",
+      "decimals": 18,
+      "chainId": 719,
+      "logoURI": "https://ipfs.io/ipfs/QmVWjVkgTzSg87W6FKF8zW2try9GBNv8j8gmnfPc9ukXKN?filename=evmos-logo.27f54c9b.png"
+    }
+  ]
+}
